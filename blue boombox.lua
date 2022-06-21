@@ -24,7 +24,7 @@ local humanoid = char.Humanoid
 
 
 
--- Instances:
+
 
 local BlueBoomboxMassplayer = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
